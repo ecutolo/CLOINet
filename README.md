@@ -40,10 +40,10 @@ For detailed information on the methodology and experiments, refer to the full p
 
 ## License
 
-This repository is released under the GNU General Public License v3 (GPLv3), which ensures that the code remains open-source and that any modifications or derivative works must also be shared under the same license.
+This repository is released under the **GNU General Public License v3 (GPLv3)**, which ensures that the code remains **open-source** and that any modifications or derivative works must also be **shared under the same license**.  
 
-By using or modifying this software, you must:
-✔ Keep your modifications open-source under GPLv3.
-✔ Provide attribution by citing the original paper and repository.
+By using or modifying this software, you **must**:  
+✔ **Keep your modifications open-source** under **GPLv3**.  
+✔ **Provide attribution** by citing the original paper and repository.
 
-For full details, see the LICENSE.txt file.
+For full details, see the **[LICENSE.txt](LICENSE.txt)** file.
